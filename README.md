@@ -48,3 +48,11 @@ Ma mission est de développer toute l’application front-end en respectant les 
 - Interface responsive (mobile / tablette / desktop)
 - Page d’erreur 404
 
+---
+
+## Voir le projet  
+
+[Accéder au projet](https://kasa-entreprise-de-location.vercel.app)
+
+
+
